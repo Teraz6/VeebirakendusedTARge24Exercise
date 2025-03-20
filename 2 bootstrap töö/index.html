@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+    <link rel="stylesheet" href="css\bootstrap.css">
+    <script src="js/bootstrap.bundle.js"></script>
+    <style>
+        body {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-dark">
+    <div class="container-fluid">
+        <!-- navbar -->
+        <div class="navbar navbar-dark navbar-expand-lg my-2">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="images/logo.jpg" alt="logo" width="55px" height="40px" class="rounded-pill">
+                </a>
+                <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- navbar content -->
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="me-auto">
+                        <a class="btn link-info" href="#">Blogi</a>
+                        <a class="btn link-info" href="#">Tooted</a>
+                        <a class="btn link-info" href="#">Kontakt</a>
+                    </div>
+
+                    <!-- Sisselogimise nupp -->
+                    <form class="d-flex" action="">
+                        <button type="button" class="btn btn-dark btn-outline-info" data-bs-toggle="modal" data-bs-target="#loginModal">
+                            Sisselogimine
+                        </button>
+                        <!-- Modal -->
+                        <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content bg-dark text-light">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="loginModalLabel">Sisselogimine</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+
+                                    <div class="modal-body">
+                                        <form action="">
+                                            <!-- Email -->
+                                            <div class="mb-3">
+                                                <label for="loginInputEmail" class="form-label">Email</label>
+                                                <input type="email" class="form-control" id="loginInputEmail">
+                                            </div>
+                                            
+                                            <!-- Parool -->
+                                            <div class="mb-3">
+                                                <label for="loginInputPassword" class="form-label">Parool</label>
+                                                <input type="password" class="form-control" id="loginInputPassword">
+                                            </div>
+
+                                            <!-- Remember me checkbox -->
+                                            <div class="form-check mb-3">
+                                                <input type="checkbox" class="form-check-input" id="loginRememberCheck">
+                                                <label for="loginRememberCheck" class="form-check-label">Jäta parool meelde</label>
+                                            </div>
+                                        </form>
+                                    </div>
+
+                                    <div class="modal-footer">
+                                        <button type="submit" class="btn btn-outline-light">Unustasid parooli?</button>
+                                        <button type="submit" class="btn btn-info">Logi sisse</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Karusell koos ettevõtte tutvustusega -->
+        <div class="container">
+            <div id="indexCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#indexCarousel" data-bs-slide-to="0" class="active"></button>
+                    <button type="button" data-bs-target="#indexCarousel" data-bs-slide-to="1"></button>
+                    <button type="button" data-bs-target="#indexCarousel" data-bs-slide-to="2"></button>
+                    <button type="button" data-bs-target="#indexCarousel" data-bs-slide-to="3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="active carousel-item">
+                        <img src="images/TattooSupplies.jpg" alt="" class="d-block w-100" width="1200px" height="673px">
+                        <div class="carousel-caption">
+                            <h2>
+                            SS TattooSupplies &#174; 
+                            </h2>
+                            <p>
+                            Pakume kvaliteetiseid ja professionaalseid tätoveerimistooteid üle 10 aasta.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/TattooStation.jpg" alt="" class="d-block w-100"  width="1200px" height="673px">
+                        <div class="carousel-caption">
+                            <h2>
+                            Erinevaid tooteid, toolidest nõelteni
+                            </h2>
+                            <p>
+                            Meie valikusse kuuluvad kõik vajalikud tööriistad ja tarvikud alates tätoveerimismasinatest ja nõeltest kuni värvide, seadmete ja hooldustoodeteni.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/TattooGoldHardware.png" alt="" class="d-block w-100"  width="1200px" height="673px">
+                        <div class="carousel-caption">
+                            <h2>
+                            Eritellimused
+                            </h2>
+                            <p>
+                            Meie ettevõte pakub lisaks laiale tooteportfellile ka eritellimusteenuseid, võimaldades tätoveerimisartistidel soetada just nende konkreetsete vajaduste järgi kohandatud tooteid.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/Tattooing.jpg" alt="" class="d-block w-100"  width="1200px" height="673px">
+                        <div class="carousel-caption">
+                            <h2>
+                            Eksperdid soovitavad
+                            </h2>
+                            <p>
+                            Eksperdid soovitavad meie tooteid, kuna need vastavad kõrgeimatele kvaliteedi- ja ohutusstandardeile. Meie valikus on ainult professionaalsed, 
+                            usaldusväärsed ja tipptasemel tooted, mis tagavad tätoveerimisprotsessi sujuvuse ja täpsuse.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
