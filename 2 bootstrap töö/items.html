@@ -17,6 +17,9 @@
         .form-check-input:checked[type=checkbox] {
             --bs-form-check-bg-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%230dcaf0%22%20class%3D%22bi%20bi-lightning-charge%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M11.251.068a.5.5%200%200%201%20.227.58L9.677%206.5H13a.5.5%200%200%201%20.364.843l-8%208.5a.5.5%200%200%201-.842-.49L6.323%209.5H3a.5.5%200%200%201-.364-.843l8-8.5a.5.5%200%200%201%20.615-.09zM4.157%208.5H7a.5.5%200%200%201%20.478.647L6.11%2013.59l5.732-6.09H9a.5.5%200%200%201-.478-.647L9.89%202.41z%22%2F%3E%3C%2Fsvg%3E");
         }
+        .btn-outline-info:hover svg {
+            fill: black;
+        }
     </style>
 </head>
 <body class="bg-dark">
@@ -84,7 +87,10 @@
                                     </div>
 
                                     <div class="modal-footer">
-                                        <button type="submit" class="btn btn-outline-light">Unustasid parooli?</button>
+                                        <div class="me-auto">
+                                            <button type="button" class="btn text-info btn">Loo konto</button>
+                                        </div>
+                                        <button type="button" class="btn btn-outline-light">Unustasid parooli?</button>
                                         <button type="submit" class="btn btn-info">Logi sisse</button>
                                     </div>
                                 </div>
@@ -95,7 +101,193 @@
             </div>
         </div>
 
+        <!-- Page content -->
+        <div class="container text-light">
+            <h1 class="text-center my-5">Tooted</h1>
+            <div class="row">
+                <!-- Products -->
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopInk.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Klassikaline must tint</h5>
+                            <p class="card-text">12.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopInk2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Valge tint</h5>
+                            <p class="card-text">12.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopInk3.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Punane tint</h5>
+                            <p class="card-text">14.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopInk4.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Sinine tint</h5>
+                            <p class="card-text">14.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopNeedle.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Nõel 0.35mm</h5>
+                            <p class="card-text">25.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopNeedle2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Nõel 0.25mm</h5>
+                            <p class="card-text">24.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopNeedle3.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Nõel 0.35mm</h5>
+                            <p class="card-text">27.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopNeedle4.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Nõel 0.35mm</h5>
+                            <p class="card-text">27.99€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopMachine.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">AXYS Valhalla</h5>
+                            <p class="card-text">700.00€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopMachine2.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Cheyenne Sol Nova</h5>
+                            <p class="card-text">1000.00€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopMachine3.png" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Bishop Power Wand</h5>
+                            <p class="card-text">800.00€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3 mb-5">
+                    <div class="card bg-dark text-light border-0">
+                        <img class="rounded" src="images/ShopMachine4.jpg" alt="">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Bishop Power Wand V2</h5>
+                            <p class="card-text">1379.00€</p>
+                            <button type="button" class="btn btn-outline-info">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0dcaf0" class="bi bi-basket" viewBox="0 0 16 16">
+                                    <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9zM1 7v1h14V7zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5m2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5"/>
+                                  </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 </body>
 </html>
