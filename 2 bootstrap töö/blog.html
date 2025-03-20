@@ -10,10 +10,18 @@
         body {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
+        .form-check-input:checked {
+            background-color: black;
+            border-color: #0dcaf0;
+        }
+        .form-check-input:checked[type=checkbox] {
+            --bs-form-check-bg-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%230dcaf0%22%20class%3D%22bi%20bi-lightning-charge%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M11.251.068a.5.5%200%200%201%20.227.58L9.677%206.5H13a.5.5%200%200%201%20.364.843l-8%208.5a.5.5%200%200%201-.842-.49L6.323%209.5H3a.5.5%200%200%201-.364-.843l8-8.5a.5.5%200%200%201%20.615-.09zM4.157%208.5H7a.5.5%200%200%201%20.478.647L6.11%2013.59l5.732-6.09H9a.5.5%200%200%201-.478-.647L9.89%202.41z%22%2F%3E%3C%2Fsvg%3E");
+        }
     </style>
 </head>
 <body class="bg-dark">
     <div class="container-fluid">
+        <!-- navbar -->
         <div class="navbar navbar-dark navbar-expand-lg border-bottom border-info my-2">
             <div class="container">
                 <a class="navbar-brand" href="index.html">
@@ -89,14 +97,79 @@
         
         <!-- Page content -->
         <div class="container text-light">
-            <!-- List of blogs -->
-            <div class="list-group my-5">
-                <div>
-                    <p class="border rounded p-2 border-danger">Blogi nimetus</p>
-                    <li>Blogi nimetus 2</li>
+            <!-- card of blogs -->
+            <h1 class="text-center my-5">Blogid</h1>
+            <div class="row">
+                <div class="col-6">
+                    <div class="card mb-3">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="images/TattooUnique.jpg" class="w-100 h-100 rounded-start">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Kuidas leida oma unikaalne kujundus</h5>
+                                    <p class="card-text">Uurime, kuidas valida tätoveering, mis tõeliselt peegeldab sinu isikupära ja eluülesandeid</p>
+                                    <button class="btn btn-info mt-auto">Loe edasi</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
+                <div class="col-6">
+                    <div class="card mb-3">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="images/TattooSalon.jpg" class="w-100 h-100 rounded-start">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">5 parimat tätoveerimissalongi</h5>
+                                    <p class="card-text">Eestis leidub hämmastavaid tätoveeringu stuudioid, kus igal kunstnikul on oma unikaalne stiil.</p>
+                                    <button class="btn btn-info mt-auto">Loe edasi</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-6">
+                    <div class="card mb-3">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="images/TattooCare.jpg" class="w-100 h-100 rounded-start">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Kuidas tagada terve ja puhas nahk</h5>
+                                    <p class="card-text">Siit saad näpunäiteid, kuidas tagada oma tätoveeringu pikaajaline ilu ja tervis.</p>
+                                    <button class="btn btn-info mt-auto">Loe edasi</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-6">
+                    <div class="card mb-3">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <img src="images/TattooTrend.jpg" class="w-100 h-100 rounded-start ">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Tätoveeringu trendid 2025. aastal</h5>
+                                    <p class="card-text">Tätoveeringu maailm on pidevas muutumises ning igal aastal kerkivad esile uued trendid.</p>
+                                    <button class="btn btn-info mt-auto">Loe edasi</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
-        </div>
+        </div> 
 
     </div>
 </body>
