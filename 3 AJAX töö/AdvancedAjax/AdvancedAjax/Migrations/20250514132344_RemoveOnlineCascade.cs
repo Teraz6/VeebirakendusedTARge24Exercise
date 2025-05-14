@@ -10,7 +10,13 @@ namespace AdvancedAjax.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropForeignKey(
+                name: "FK_Cities_Countries_CountryId",
+                table: "CITIES");
 
+            migrationBuilder.AddForeignKey(
+                name: "FK_Cities_Countries_CountryId",
+                jätka siit)
         }
 
         /// <inheritdoc />
