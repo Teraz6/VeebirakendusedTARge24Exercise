@@ -3,3 +3,4 @@ https://www.youtube.com/watch?v=apVQMsHjT6w
 
 18:59 -- update-database --  käsklus vajab nuGet package consolis ära teha. Tõenäoliselt ei saa minna "Country" lehele (yt 24:05)
 27:20 -- ei tööta kuni pole "update-database" tehtud
+Jätka 31:33
