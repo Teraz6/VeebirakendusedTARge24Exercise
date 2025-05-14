@@ -1,3 +1,13 @@
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.ComponentModel;
+global using Microsoft.EntityFrameworkCore;
+global using AdvancedAjax.Models;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using AdvancedAjax.Data;
+
+
 namespace AdvancedAjax
 {
     public class Program
@@ -8,6 +18,7 @@ namespace AdvancedAjax
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetSection("ConnectionStrings:DbConn").Value));
 
             var app = builder.Build();
 
