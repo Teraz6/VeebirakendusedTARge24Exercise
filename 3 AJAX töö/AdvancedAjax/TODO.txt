@@ -1,0 +1,5 @@
+Siin failis on kirjas, mis vaja teha koos videoga
+https://www.youtube.com/watch?v=apVQMsHjT6w
+
+18:59 -- update-database --  käsklus vajab nuGet package consolis ära teha. Tõenäoliselt ei saa minna "Country" lehele (yt 24:05)
+  
