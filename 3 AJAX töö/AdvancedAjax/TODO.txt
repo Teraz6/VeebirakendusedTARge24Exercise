@@ -1,9 +1,13 @@
 Siin failis on kirjas, mis vaja teha (kodus) koos videoga
 https://www.youtube.com/watch?v=apVQMsHjT6w
 
-18:59 -- update-database --  käsklus vajab nuGet package consolis ära teha. Tõenäoliselt ei saa minna "Country" lehele (yt 24:05)
+DONE 18:59 -- update-database --  käsklus vajab nuGet package consolis ära teha. 
 27:20 -- ei tööta kuni pole "update-database" tehtud
 32:27 -- update-database --  ei tööta kuna eelmine "update-database" pole tehtud
 32:40 -- ei tööta kuni pole "update-database" tehtud
 37:11 -- update-database -- 
-Jätka 48:02
+DONE everything above
+
+customer creating page- not showing profile photo
+
+Jätka 1:06:00

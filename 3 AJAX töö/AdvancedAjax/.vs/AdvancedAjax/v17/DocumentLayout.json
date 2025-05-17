@@ -1,86 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\",
+  "WorkspaceRootPath": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\reten\\desktop\\projektid\\projektid\\tap\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\reten\\desktop\\projektid\\projektid\\tap\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\reten\\desktop\\projektid\\projektid\\tap\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\reten\\desktop\\projektid\\projektid\\tap\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\migrations\\20250514132344_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\migrations\\20250514132344_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\advancedajax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\advancedajax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\migrations\\20250514120457_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\migrations\\20250514120457_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|c:\\users\\reten\\desktop\\projektid\\projektid\\tap\\veebirakendusedtarge24exercise\\3 ajax t\u00F6\u00F6\\advancedajax\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1602474D-091C-426F-B62E-825BC3EC4F30}|AdvancedAjax\\AdvancedAjax.csproj|solutionrelative:advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,252 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:31:35.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:29:45.145Z",
+              "WhenOpened": "2025-05-17T11:17:14.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "AdvancedAjax\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:07:25.533Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAhwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T10:49:52.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20250515110425_AddCustomerTable.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs",
-              "RelativeToolTip": "AdvancedAjax\\Migrations\\20250515110425_AddCustomerTable.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:04:25.552Z",
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AdvancedAjax\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AdvancedAjax\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-17T10:44:51.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\Customer.cs",
-              "RelativeToolTip": "AdvancedAjax\\Models\\Customer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "AdvancedAjax\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "AdvancedAjax\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:54:14.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Country\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\Country\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:51:23.497Z",
+              "WhenOpened": "2025-05-17T10:36:17.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:14:37.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250514132344_RemoveOnlineCascade.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250514132344_RemoveOnlineCascade.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Migrations\\20250514132344_RemoveOnlineCascade.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250514132344_RemoveOnlineCascade.cs",
-              "RelativeToolTip": "AdvancedAjax\\Migrations\\20250514132344_RemoveOnlineCascade.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:23:44.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Create.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\City\\Create.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Create.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\City\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\reten\\Desktop\\Projektid\\Projektid\\TAP\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:14:02.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CityController.cs",
-              "RelativeToolTip": "AdvancedAjax\\Controllers\\CityController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAmwEQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:51:00.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "AdvancedAjax\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:49:57.325Z",
+              "WhenOpened": "2025-05-17T10:24:51.986Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "AdvancedAjax\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:11:28.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Details.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\City\\Details.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Details.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\City\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:20:01.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Delete.cshtml",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Views\\City\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Views\\City\\Delete.cshtml",
-              "RelativeToolTip": "AdvancedAjax\\Views\\City\\Delete.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:20:35.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250514120457_CreateDb.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250514120457_CreateDb.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Migrations\\20250514120457_CreateDb.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Migrations\\20250514120457_CreateDb.cs",
-              "RelativeToolTip": "AdvancedAjax\\Migrations\\20250514120457_CreateDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:04:57.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\appsettings.json",
-              "RelativeDocumentMoniker": "AdvancedAjax\\appsettings.json",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\appsettings.json",
-              "RelativeToolTip": "AdvancedAjax\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T11:52:13.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AdvancedAjax.csproj",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\AdvancedAjax.csproj",
-              "RelativeDocumentMoniker": "AdvancedAjax\\AdvancedAjax.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\AdvancedAjax.csproj",
-              "RelativeToolTip": "AdvancedAjax\\AdvancedAjax.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-14T11:49:33.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\City.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\City.cs",
-              "RelativeToolTip": "AdvancedAjax\\Models\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:44:37.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Program.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Program.cs",
-              "RelativeToolTip": "AdvancedAjax\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:41:38.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "AdvancedAjax\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\VeebirakendusedTARge24Exercise\\3 AJAX t\u00F6\u00F6\\AdvancedAjax\\AdvancedAjax\\Models\\Country.cs",
-              "RelativeToolTip": "AdvancedAjax\\Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:39:13.76Z"
             }
           ]
         }

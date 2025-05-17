@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\3 AJAX töö",
+    "\\3 AJAX töö\\AdvancedAjax",
+    "\\3 AJAX töö\\AdvancedAjax\\AdvancedAjax",
+    "\\3 AJAX töö\\AdvancedAjax\\AdvancedAjax\\Views",
+    "\\3 AJAX töö\\AdvancedAjax\\AdvancedAjax\\Views\\Customer"
   ],
+  "SelectedNode": "\\3 AJAX töö\\AdvancedAjax\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }
