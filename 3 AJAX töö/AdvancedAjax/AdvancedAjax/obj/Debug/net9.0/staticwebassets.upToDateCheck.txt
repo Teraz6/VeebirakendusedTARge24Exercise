@@ -1,6 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\Images\noimages.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -62,9 +61,11 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Images\noimages.png
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\css\site.css
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\favicon.ico
-C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\js\site.js
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -124,3 +125,6 @@ C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\wwwroot\js\site.js

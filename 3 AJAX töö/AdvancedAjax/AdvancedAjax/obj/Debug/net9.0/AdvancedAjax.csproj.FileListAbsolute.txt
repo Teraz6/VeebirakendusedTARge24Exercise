@@ -672,4 +672,7 @@ C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\AdvancedAjax.pdb
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\AdvancedAjax.genruntimeconfig.cache
 C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\ref\AdvancedAjax.dll
-C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\compressed\1qqkefeueq-7xrkx2whsi.gz
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\bin\Debug\net9.0\libman.json
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\compressed\ybzx9n0jgl-vs3qwh9hx3.gz
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\compressed\8w99id8xgd-8ve2wm9mbw.gz
+C:\Users\reten\Desktop\Projektid\Projektid\TAP\VeebirakendusedTARge24Exercise\3 AJAX töö\AdvancedAjax\AdvancedAjax\obj\Debug\net9.0\compressed\1qqkefeueq-mfsk6w0u9o.gz
