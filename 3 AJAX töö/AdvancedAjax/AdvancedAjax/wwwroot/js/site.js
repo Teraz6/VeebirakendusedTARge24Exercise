@@ -41,3 +41,12 @@ $(".custom-file-input").on("change", function () {
 
 });
 
+function ShowCreateModalForm() {
+    $('#DivCreateDialogHolder').modal('show');
+    return;
+}
+
+function submitModalForm() {
+    var btnSubmit = document.getElementById('btnSubmit');
+    btnSubmit.click();
+}
